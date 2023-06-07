@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Built with
 
-- [Visual STudio Code](https://code.visualstudio.com/) - to write code
+- [Visual Studio Code](https://code.visualstudio.com/) - to write code
 
 ### What I learned
 
