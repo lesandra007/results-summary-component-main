@@ -25,17 +25,18 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://delicate-dusk-de6798.netlify.app/](https://delicate-dusk-de6798.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - [Visual Studio Code](https://code.visualstudio.com/) - to write code
+- [Netlify](https://www.netlify.com/) - to deploy website
 
 ### What I learned
 
-gradients and transparency! This is my 2nd html/css project!
+Gradients and transparency! This is my 2nd html/css project!
 
 ### Useful resources
 
@@ -43,4 +44,4 @@ gradients and transparency! This is my 2nd html/css project!
 
 ## Acknowledgments
 
-Solution ny Kevin Powell.
+Solution by Kevin Powell.
