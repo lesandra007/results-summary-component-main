@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/lesandra007/results-summary-component-main](https://github.com/lesandra007/results-summary-component-main)
 - Live Site URL: [https://delicate-dusk-de6798.netlify.app/](https://delicate-dusk-de6798.netlify.app/)
 
 ## My process
